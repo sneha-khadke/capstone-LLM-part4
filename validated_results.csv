@@ -1,0 +1,13 @@
+category,urgency,sentiment,summary
+Delivery,High,Negative,Order #4512 has not arrived after ten days and requires urgent assistance.
+Exchange,Medium,Mixed,Customer likes the shoes but needs an exchange because they are too small.
+Payment,High,Negative,Customer was charged twice for a single order and received only one confirmation.
+Praise,Low,Positive,Customer expressed satisfaction with the product quality and fast delivery speed.
+Delivery,High,Negative,The customer received a damaged package containing a broken item.
+Delivery,High,Neutral,Customer accidentally entered the wrong shipping address and requested an update.
+Praise,Low,Positive,Customer praised customer support for resolving their issue quickly and delivering a great experience.
+Refund,High,Negative,Customer is dissatisfied with the fabric quality and requested an immediate refund.
+Refund,Medium,Negative,Customer has not received the refund for their returned product.
+Cancellation,Medium,Neutral,Customer is asking if an order can be cancelled prior to shipment.
+Praise,Low,Positive,The customer praised the delivery executive for being polite and helpful.
+Complaint,Medium,Negative,Customer received an item with a color that is completely different from the images on the website.
